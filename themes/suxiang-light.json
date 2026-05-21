@@ -56,10 +56,10 @@
         "sideBarSectionHeader.background": "#E6DCC4",
         "sideBarSectionHeader.border": "#D3C5A6",
         "sideBarSectionHeader.foreground": "#423729",
-        "activityBar.background": "#2E5F88",
+        "activityBar.background": "#E6DCC4",
         "activityBar.border": "#254E70",
-        "activityBar.foreground": "#F3EAD8",
-        "activityBar.inactiveForeground": "#D8CDB8",
+        "activityBar.foreground": "#254E70",
+        "activityBar.inactiveForeground": "#A29583",
         "activityBarBadge.background": "#C54131",
         "commandCenter.background": "#EDE3CD",
         "commandCenter.border": "#D3C5A6",
@@ -230,7 +230,8 @@
         "testing.coveredBackground": "#EDE3CD",
         "testing.coveredBorder": "#D3C5A6",
         "agentSessionReadIndicator.foreground": "#2E5F88",
-        "agentSessionSelectedBadge.border": "#D3C5A6"
+        "agentSessionSelectedBadge.border": "#D3C5A6",
+        "git.blame.editorDecorationForeground": "#D96C4A57"
     },
     "tokenColors": [
         {

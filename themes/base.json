@@ -2,11 +2,11 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "namespace": { "fontStyle": "normal" },
-    "class": { "fontStyle": "bold" },
-    "interface": { "fontStyle": "bold" },
+    "class": { "fontStyle": "italic" },
+    "interface": { "fontStyle": "italic" },
     "enum": { "fontStyle": "normal" },
     "struct": { "fontStyle": "normal" },
-    "type": { "fontStyle": "bold" },
+    "type": { "fontStyle": "italic" },
     "typeParameter": { "fontStyle": "normal" },
     "function": { "fontStyle": "normal" },
     "method": { "fontStyle": "normal" },
@@ -18,15 +18,15 @@
     "event": { "fontStyle": "normal" },
     "decorator": { "fontStyle": "normal" },
     "label": { "fontStyle": "normal" },
-    "keyword": { "fontStyle": "bold" },
+    "keyword": { "fontStyle": "italic" },
     "string": { "fontStyle": "normal" },
     "number": { "fontStyle": "normal" },
     "regexp": { "fontStyle": "normal" },
     "operator": { "fontStyle": "normal" },
-    "comment": { "fontStyle": "italic" },
-    "*.readonly": { "fontStyle": "italic" },
+    "comment": { "fontStyle": "normal" },
+    "*.readonly": { "fontStyle": "bold" },
     "*.deprecated": { "fontStyle": "strikethrough" },
-    "*.declaration": { "fontStyle": "bold" }
+    "*.declaration": { "fontStyle": "italic" }
   },
   "tokenColors": [
     {
