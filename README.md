@@ -2,65 +2,41 @@
 
 一本手抄旧书的颜色，落在你的代码上。
 
-![Theme](https://img.shields.io/badge/theme-light%20%7C%20dark-D95B4A)
+![ThemeName](https://img.shields.io/badge/%E7%B4%A0%E7%BC%83-Su%20Xiang-%23E6DCC4) 
+![Theme](https://img.shields.io/badge/Theme-Light%20%7C%20Dark-%23E6DCC4)
+![GitHub License](https://img.shields.io/github/license/Mosaulse/suxiang-theme?style=flat&color=%23E6DCC4)
 
-[![VSCode](https://img.shields.io/badge/VSCode-suxiang%20theme-D95B4A?style=flat&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Mosaulse.suxiang-theme) ![VSCode Version](https://vsmarketplacebadges.dev/version-short/Mosaulse.suxiang-theme.svg) ![VSCode Downloads](https://vsmarketplacebadges.dev/downloads/Mosaulse.suxiang-theme.svg)
+[![VSCode](https://img.shields.io/badge/VSCode-suxiang%20theme-D95B4A?style=flat&color=greenA&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Mosaulse.suxiang-theme) 
+![VSCode Version](https://vsmarketplacebadges.dev/version-short/Mosaulse.suxiang-theme.svg) 
+![VSCode Downloads](https://vsmarketplacebadges.dev/downloads/Mosaulse.suxiang-theme.svg)
 
-[![OpenVSX](https://img.shields.io/badge/OpenVSX-suxiang%20theme-D95B4A?style=flat&logo=visual-studio-code)](https://open-vsx.org/extension/Mosaulse/suxiang-theme) ![Open VSX Version](https://img.shields.io/open-vsx/v/Mosaulse/suxiang-theme?style=flat) ![Open VSX Downloads](https://img.shields.io/open-vsx/dt/Mosaulse/suxiang-theme?style=flat)
+[![OpenVSX](https://img.shields.io/badge/OpenVSX-suxiang%20theme-D95B4A?style=flat&color=%23D95B4A&logo=visual-studio-code)](https://open-vsx.org/extension/Mosaulse/suxiang-theme) 
+![Open VSX Version](https://img.shields.io/open-vsx/v/Mosaulse/suxiang-theme?style=flat&color=%23D95B4A) 
+![Open VSX Downloads](https://img.shields.io/open-vsx/dt/Mosaulse/suxiang-theme?style=flat&color=%23D95B4A)
 
-![GitHub License](https://img.shields.io/github/license/Mosaulse/suxiang-theme)
+
 
 素缃 是一对从东方古籍美学中生长出来的 VSCode 颜色主题。
 「素」是未经染色的生绢，素净安宁；「缃」是被岁月染成的浅黄，古卷扉页的颜色。
 它没有刺眼的荧光白，也没有深不见底的黑。只有时间浸润后的温润纸色、沉淀下来的褪色墨迹、郑重落下的朱砂红印，以及青花瓷般沉静的靛蓝标题。仿佛在午后或者烛灯下摊开一本旧书，所有的代码都变得安静而有温度。
 
-## 📓 版本纪事
-
-> 素缃卷末，记其微变与新章。以下为近卷要事。
-
-### v1.3.1 - 2026-05-22
-
-**墨韵微调 · 语义高亮与活动栏**
-
-- 调整语义高亮风格：class、interface、type、keyword 改为斜体，使类型层次如行书般灵动
-- comment 由斜体恢复为正体，只读符号改为粗体，声明改为斜体，各归其位
-- 活动栏底色与侧边栏统一，深浅两卷浑然一体
-- 新增 `git.blame.editorDecorationForeground`，溯源批注如朱砂小印
-
-### v1.3.0 - 2026-05-09
-
-**画卷续章 · 主题微调**
-
-- 抽出共色并新增 `themes/base.json`，使多卷同色可复用
-- 微调 `themes/suxiang-light.json` 与 `themes/suxiang-dark.json` 若干配色与 UI 元素，令意境更圆润
-- 更新 `.vscodeignore` 并添加若干本地脚本，便于打包与本地研习
-
-
-### v1.2.0 - 2026-05-08
-
-**意境精进**
-
-- 新增 `semanticTokenColors` 配置，增强语义化高亮
-- 优化 namespace、class、interface 与 enum 等类型之高亮表现
-- 为 function、method、macro 等添独立配色，方法与调用更为分明
-- 完善 variable、parameter、property 之颜色区分，层次更清晰
 ## 🎨 视觉预览
 
 ### 素缃·朝霞（Suxiang - Light）
 
-> 晨起推窗，素缃初展。
-> 朝霞映纸，墨香盈室。
+> 晨起推窗，素缃初展。  
+> 朝霞映纸，墨香盈室。  
 > 关键字如朱砂印章，函数名似青花瓷纹。
 
-<img src="images/screenshot-light.png" alt="素缃·朝霞 预览" width="80%" />
+<img src="images/screenshot-light.png" alt="素缃·朝霞 预览" width="60%" />
 
 ### 素缃·暮色（Suxiang - Dark）
 
-> 暮色苍茫，烛影摇红。
-> 古卷泛黄，诗意流淌。
+> 暮色苍茫，烛影摇红。  
+> 古卷泛黄，诗意流淌。  
 > 代码如诗，意境悠长。
 
-<img src="images/screenshot-dark.png" alt="素缃·暮色 预览" width="80%" />
+<img src="images/screenshot-dark.png" alt="素缃·暮色 预览" width="60%" />
 
 ## 🎨 四象配色
 
@@ -108,8 +84,6 @@
 }
 ```
 
-> 🎋 **字体建议**：若选用带有传统衬线的 **Noto Serif CJK SC** 或 **Source Han Serif SC**，那一抹缃色的古意将更加浓烈，如诗如画。
->
 > ✨ **特别推荐**：[**霞鹜文楷 (LXGW WenKai)**](https://github.com/lxgw/LxgwWenKai) - 一款基于 Klee One 的开源中文字体，融合楷体与仿宋之美，温润优雅，与素缃主题意境相得益彰。可从 [GitHub 发布页](https://github.com/lxgw/LxgwWenKai/releases) 下载安装。
 
 ## 📚 语言适配
@@ -159,7 +133,8 @@ npx vsce package
 > 🎨 颜色亦是文字，期待君为此卷素缃，染上新彩。
 
 ## 📓 版本纪事
--
+> 素缃卷末，记其微变与新章。以下为近卷要事。
+
 ### v1.3.1 - 2026-05-22
 
 **墨韵微调 · 语义高亮与活动栏**
@@ -215,8 +190,8 @@ MIT License © Mosaulse
 
 ---
 
-> 素缃一卷，墨香千年。
-> 代码如诗，意境悠然。
+> 素缃一卷，墨香千年。  
+> 代码如诗，意境悠然。  
 > 愿君在代码世界里，常有一纸素缃相伴。
 
 ---
