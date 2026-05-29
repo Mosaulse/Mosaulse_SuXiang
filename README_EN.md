@@ -137,6 +137,16 @@ Su Xiang was born from the poetic vision of "yellowed paper and vermillion seals
 
 > At the end of the scroll, we record its changes and new chapters. Here are the recent milestones.
 
+### v1.4.0 - 2026-05-29
+
+**Verdant Green Unfurls · Four Symbols Reimagined**
+
+- The 'Blue and White' of the Four Symbols transforms to 'Verdant Green', shifting from indigo to emerald, as warm and serene as polished jade
+- Light theme's blue-and-white porcelain hues evolve from `#2E5F88` / `#43769C` to jade-like emerald greens `#1F987C` / `#439D88`
+- Dark theme's indigo tones transition from `#143252` / `#6FA6C9` to verdant teals `#7DA494` / `#9DBFAD`
+- Comprehensive refresh of green-themed colors for functions, types, title bars, and more, shifting the mood from cool and crisp to warm and nurturing
+- README's Four Symbols color palette updated in parallel, with the Verdant Green chapter completely rewritten
+
 ### v1.3.1 — 2026-05-22
 
 **Ink Tuning: semantic highlighting & activity bar**
