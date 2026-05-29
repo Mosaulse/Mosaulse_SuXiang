@@ -7,6 +7,8 @@ docs/
 # Workspace config
 .workbuddy/
 .trae/
+.reasonix/
+scripts
 
 # Development files
 *.log
@@ -20,4 +22,7 @@ Thumbs.db
 .git/
 .gitignore
 
-.scripts/apply_include_and_clean.py
+themes/
+!themes/base.json
+!themes/suxiang-dark-青碧.json
+!themes/suxiang-light-青碧.json
