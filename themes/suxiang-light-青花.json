@@ -1,6 +1,6 @@
 {
     "include": "./base.json",
-    "name": "素缃·光",
+    "name": "素缃·光 青花",
     "type": "light",
     "colors": {
         "focusBorder": "#2E5F8866",
@@ -84,6 +84,7 @@
         "tab.inactiveBackground": "#E6DCC4",
         "tab.inactiveForeground": "#7A6D5E",
         "tab.border": "#D3C5A6",
+        "tab.activeBorderTop": "#C54131",
         "editor.background": "#F3EAD8",
         "editor.foreground": "#423729",
         "editorGutter.background": "#F3EAD8",
