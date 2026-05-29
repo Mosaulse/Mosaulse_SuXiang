@@ -26,3 +26,4 @@ npm-debug.log*
 
 # AI
 .workbuddy/
+.reasonix/
