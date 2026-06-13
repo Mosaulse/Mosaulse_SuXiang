@@ -26,7 +26,14 @@
     "comment": { "fontStyle": "normal" },
     "*.readonly": { "fontStyle": "bold" },
     "*.deprecated": { "fontStyle": "strikethrough" },
-    "*.declaration": { "fontStyle": "italic" }
+    "*.declaration": { "fontStyle": "italic" },
+    "*.definition": { "fontStyle": "normal" },
+    "*.static": { "fontStyle": "normal" },
+    "*.abstract": { "fontStyle": "italic" },
+    "*.async": { "fontStyle": "italic" },
+    "*.modification": { "fontStyle": "normal" },
+    "*.documentation": { "fontStyle": "italic" },
+    "*.defaultLibrary": { "fontStyle": "normal" }
   },
   "tokenColors": [
     {

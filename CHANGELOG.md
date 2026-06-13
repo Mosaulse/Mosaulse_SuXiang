@@ -2,6 +2,23 @@
 
 > 素缃一卷，墨香微扬。此页载诸小改与新章，记于年间。
 
+## [1.5.0] - 2026-06-12
+
+### 🎨 语义补全 · 意境圆满
+
+- 四主题更名：素缃·光→朝霞、素缃·夜→暮色、紫缃·光→晓烟、紫缃·夜→烛影，各得诗意
+- 新增 7 项语义修饰符：`static`、`abstract`、`async`、`definition`、`modification`、`documentation`、`defaultLibrary`，代码之筋骨愈加分明
+- 补全 Git 装饰色：`modifiedResourceForeground`、`renamedResourceForeground`、`stageModified`、`stageDeleted`，源码管理之章法井然
+- 补全 Diff 行背景色：`insertedLineBackground`、`removedLineBackground`、`diffEditorGutter`，增删之迹一目了然
+- 补全 Editor 交互色：`selectionForeground`、`findMatchForeground`、`lineHighlightBorder`、`findMatchBorder`、`wordHighlightBorder`，检索与选中之境层次分明
+- 补全终端 ANSI 黄色：`ansiYellow`、`ansiBrightYellow`，四象之色不缺一味
+- 补全第四层括号高亮色：`editorBracketHighlight.foreground4`，深嵌之括各归其色
+- 补全概览标尺：错误、警告、信息、修改、新增、删除六色齐备
+- 补全测试状态色：`iconQueued`、`iconSkipped`，校验之途一应俱全
+- 补全 gutter、sticky scroll、inline suggest、marker navigation 等细部配色
+
+---
+
 ## [1.4.0] - 2026-05-29
 
 ### 🎨 青碧入卷 · 四象焕新

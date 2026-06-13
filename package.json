@@ -1,7 +1,7 @@
 {
   "name": "suxiang-theme",
   "displayName": "素缃 · Su Xiang",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "publisher": "Mosaulse",
   "description": "一本手抄旧书的颜色，落在你的代码上。泛黄的纸张、褪色的墨迹、朱砂色的印章、青碧玉的翠色标题。",
   "icon": "images/icon.png",
@@ -33,14 +33,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "素缃·光",
+        "label": "素缃·朝霞",
         "uiTheme": "vs",
-        "path": "./themes/suxiang-light-青碧.json"
+        "path": "./themes/Suxiang-Light.json"
       },
       {
-        "label": "素缃·夜",
+        "label": "素缃·暮色",
         "uiTheme": "vs-dark",
-        "path": "./themes/suxiang-dark-青碧.json"
+        "path": "./themes/Suxiang-Dark.json"
+      },
+      {
+        "label": "紫缃·晓烟",
+        "uiTheme": "vs",
+        "path": "./themes/Zixiang-Light.json"
+      },
+      {
+        "label": "紫缃·烛影",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zixiang-Dark.json"
       }
     ]
   },

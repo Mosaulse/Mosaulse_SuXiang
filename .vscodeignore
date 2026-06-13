@@ -21,8 +21,3 @@ Thumbs.db
 # Git files (optional, usually auto-ignored)
 .git/
 .gitignore
-
-themes/
-!themes/base.json
-!themes/suxiang-dark-青碧.json
-!themes/suxiang-light-青碧.json
