@@ -51,6 +51,16 @@
         "label": "紫缃·烛影",
         "uiTheme": "vs-dark",
         "path": "./themes/Zixiang-Dark.json"
+      },
+      {
+        "label": "素缃·光·紫烟",
+        "uiTheme": "vs",
+        "path": "./themes/Ziyan-Light.json"
+      },
+      {
+        "label": "素缃·夜·紫烟",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ziyan-Dark.json"
       }
     ]
   },
