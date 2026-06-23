@@ -296,7 +296,7 @@
         {
             "name": "Keyword",
             "scope": ["keyword", "storage.type", "storage.modifier"],
-            "settings": { "foreground": "#D86A7A" }
+            "settings": { "foreground": "#c08eaf" }
         },
         {
             "name": "String",
@@ -334,7 +334,7 @@
         {
             "name": "HTML/XML Attribute",
             "scope": ["entity.other.attribute-name"],
-            "settings": { "foreground": "#D86A7A" }
+            "settings": { "foreground": "#c08eaf" }
         },
         {
             "name": "Object property & member",
@@ -380,7 +380,7 @@
         {
             "name": "Markdown heading",
             "scope": ["markup.heading", "punctuation.definition.heading"],
-            "settings": { "foreground": "#D86A7A" }
+            "settings": { "foreground": "#c08eaf" }
         },
         {
             "name": "Markdown link & inline code",
@@ -406,11 +406,11 @@
         "variable": "#E0D4E8",
         "parameter": "#B5A6C2",
         "property": "#D9A85F",
-        "enumMember": "#D86A7A",
+        "enumMember": "#D9A85F",
         "event": "#E89AA8",
         "decorator": "#D9A85F",
         "label": "#998DA3",
-        "keyword": { "foreground": "#D86A7A" },
+        "keyword": { "foreground": "#c08eaf" },
         "string": "#E89AA8",
         "number": "#B5A6C2",
         "regexp": "#D9A85F",
