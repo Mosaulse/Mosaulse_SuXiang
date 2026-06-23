@@ -4,8 +4,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 THEMES = ROOT / 'themes'
 BASE_PATH = THEMES / 'base.json'
-LIGHT = THEMES / 'suxiang-light.json'
-DARK = THEMES / 'suxiang-dark.json'
+LIGHT = THEMES / 'dawn-suxiang.json'
+DARK = THEMES / 'dusk-suxiang.json'
 
 with BASE_PATH.open('r', encoding='utf-8') as f:
     base = json.load(f) or {}
