@@ -22,21 +22,49 @@ No harsh fluorescent whites, no bottomless blacks. Only the warmth of aged paper
 
 ## 🎨 Preview
 
-### Suxiang - Light (素缃·朝霞)
+### Dawn · Suxiang (朝霞·素缃)
 
 > Rise at dawn, unroll the scroll.  
 > Morning light on paper, the scent of ink fills the room.  
 > Keywords like vermillion seals, function names like blue-and-white porcelain.
 
-<img src="images/screenshot-light.png" alt="Suxiang Light Preview" width="60%" />
+<img src="images/screenshot-light.png" alt="Dawn Suxiang Preview" width="60%" />
 
-### Suxiang - Dark (素缃·暮色)
+### Dusk · Suxiang (暮色·素缃)
 
 > Dusk falls, candlelight flickers.  
 > Ancient pages yellowed, poetry flows.  
 > Code becomes verse, its mood lingering.
 
-<img src="images/screenshot-dark.png" alt="Suxiang Dark Preview" width="60%" />
+<img src="images/screenshot-dark.png" alt="Dusk Suxiang Preview" width="60%" />
+
+### Dawnmist · Zixiang (晓烟·紫缃)
+
+> Morning mist轻笼, purple气初生。  
+> Pink paper like dawn, ink stains with dew.
+
+> *(Preview to be added)*
+
+### Candlelight · Zixiang (烛影·紫缃)
+
+> Candlelight flickers, purple smoke deepens。  
+> Night like silk, characters like fireflies。
+
+> *(Preview to be added)*
+
+### Morning Dew · Fuqu (晨露·芙蕖)
+
+> Morning dew condenses, lotus buds。  
+> Fresh as morning, jade leaves hold pearls。
+
+> *(Preview to be added)*
+
+### Moon Shadow · Fuqu (月影·芙蕖)
+
+> Moonlight casts shadows, lotus静谧。  
+> Night like water, fragrance floats。
+
+> *(Preview to be added)*
 
 ## 🎨 Four-Symbol Color Palette
 
@@ -61,7 +89,7 @@ This theme follows the traditional Chinese philosophy of the "Four Symbols," bui
 2. Click the **Extensions** icon in the sidebar (`Ctrl+Shift+X`)
 3. Search for **Su Xiang**
 4. Click **Install**
-5. Press `Ctrl+K Ctrl+T` (Mac: `Cmd+K Cmd+T`), and choose **Suxiang - Light** or **Suxiang - Dark**
+5. Press `Ctrl+K Ctrl+T` (Mac: `Cmd+K Cmd+T`), and choose **Dawn · Suxiang**, **Dusk · Suxiang**, **Dawnmist · Zixiang**, **Candlelight · Zixiang**, **Morning Dew · Fuqu**, or **Moon Shadow · Fuqu**
 
 **Method 2: Marketplace**
 

@@ -33,34 +33,34 @@
   "contributes": {
     "themes": [
       {
-        "label": "素缃·朝霞",
+        "label": "朝霞·素缃",
         "uiTheme": "vs",
-        "path": "./themes/Suxiang-Light.json"
+        "path": "./themes/dawn-suxiang.json"
       },
       {
-        "label": "素缃·暮色",
+        "label": "暮色·素缃",
         "uiTheme": "vs-dark",
-        "path": "./themes/Suxiang-Dark.json"
+        "path": "./themes/dusk-suxiang.json"
       },
       {
-        "label": "紫缃·晓烟",
+        "label": "晓烟·紫缃",
         "uiTheme": "vs",
-        "path": "./themes/Zixiang-Light.json"
+        "path": "./themes/dawnmist-zixiang.json"
       },
       {
-        "label": "紫缃·烛影",
+        "label": "烛影·紫缃",
         "uiTheme": "vs-dark",
-        "path": "./themes/Zixiang-Dark.json"
+        "path": "./themes/candlelight-zixiang.json"
       },
       {
-        "label": "紫烟·光",
+        "label": "晨露·芙蕖",
         "uiTheme": "vs",
-        "path": "./themes/Ziyan-Light.json"
+        "path": "./themes/morningdew-fuqu.json"
       },
       {
-        "label": "紫烟·夜",
+        "label": "月影·芙蕖",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ziyan-Dark.json"
+        "path": "./themes/moonshadow-fuqu.json"
       }
     ]
   },

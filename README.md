@@ -41,7 +41,7 @@
 > 朝霞映纸，墨香盈室。  
 > 朱砂落印如关键字点睛，青碧入纹似函数名提纲。
 
-<img src="images/screenshot-light.png" alt="素缃·朝霞 预览" width="60%" />
+<img src="images/screenshot-light.png" alt="朝霞·素缃 预览" width="60%" />
 
 ### 暮色 · 素缃（Dusk — Suxiang）
 
@@ -49,7 +49,7 @@
 > 古卷泛黄处，诗意暗流淌。  
 > 一行代码一行诗，意境悠然入夜长。
 
-<img src="images/screenshot-dark.png" alt="素缃·暮色 预览" width="60%" />
+<img src="images/screenshot-dark.png" alt="暮色·素缃 预览" width="60%" />
 
 ### 晓烟 · 紫缃（Dawnmist — Zixiang）
 
