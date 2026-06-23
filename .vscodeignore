@@ -9,6 +9,8 @@ docs/
 .trae/
 .reasonix/
 .codegraph/
+.kilo/
+docs/
 scripts/
 
 # Development files

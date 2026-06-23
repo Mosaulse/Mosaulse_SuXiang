@@ -1,0 +1,29 @@
+{
+  "$schema": "https://app.kilo.ai/config.json",
+  "mcp": {
+    "filesystem": {
+      "type": "local",
+      "command": [
+        "npx",
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "D:\\"
+      ]
+    },
+    "everything-search": {
+      "type": "local",
+      "command": [
+        "uvx",
+        "mcp-everything-search"
+      ]
+    },
+    "codegraph": {
+      "type": "local",
+      "command": [
+        "codegraph",
+        "serve",
+        "--mcp"
+      ]
+    }
+  }
+}
