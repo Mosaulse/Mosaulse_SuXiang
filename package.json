@@ -53,12 +53,12 @@
         "path": "./themes/Zixiang-Dark.json"
       },
       {
-        "label": "素缃·光·紫烟",
+        "label": "紫烟·光",
         "uiTheme": "vs",
         "path": "./themes/Ziyan-Light.json"
       },
       {
-        "label": "素缃·夜·紫烟",
+        "label": "紫烟·夜",
         "uiTheme": "vs-dark",
         "path": "./themes/Ziyan-Dark.json"
       }

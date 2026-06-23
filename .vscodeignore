@@ -8,11 +8,13 @@ docs/
 .workbuddy/
 .trae/
 .reasonix/
-scripts
+.codegraph/
+scripts/
 
 # Development files
 *.log
 *.tmp
+AGENTS.md
 
 # OS files
 .DS_Store
