@@ -130,5 +130,7 @@ def clean_theme(theme_path: Path):
 
 
 if __name__ == '__main__':
-    clean_theme(LIGHT)
-    clean_theme(DARK)
+    for theme_file in sorted(THEMES.glob('*.json')):
+        if theme_file.name == BASE_PATH.name:
+            continue
+        clean_theme(theme_file)
