@@ -18,10 +18,10 @@
 
 ## 缘起
 
-> 缣缃满篋，未忍轻开。
+> 缣缃满篋，未忍轻开。  
 > ——《颜氏家训 · 勉学》
 
-**素缃**，是一套从东方古籍美学中生长出来的 VSCode 颜色主题，共含**三系六卷**。
+**素缃**，是一卷取法东方古籍之美的 `VSCode` 颜色主题，共含**三系六卷**。
 
 「**素**」者，未经染色之生绢也。《礼记》云：「大夫素带辟垂。」素，是底色，是留白，是一切浓墨重彩尚未落下之前的安宁。
 
@@ -53,37 +53,49 @@
 
 ### 朝霞 · 素缃（Dawn — Suxiang）
 
-> 晨起推窗，素缃初展。
+> 晨起推窗，素缃初展。  
 > 朝霞映纸，墨香盈室。
-
-<img src="images/screenshot-light.png" alt="朝霞·素缃 预览" width="60%" />
 
 ### 暮色 · 素缃（Dusk — Suxiang）
 
-> 暮色四合，烛影摇红。
+> 暮色四合，烛影摇红。  
 > 古卷泛黄处，诗意暗流淌。
 
-<img src="images/screenshot-dark.png" alt="暮色·素缃 预览" width="60%" />
+| **朝霞 · 素缃（Dawn — Suxiang）** | **暮色 · 素缃（Dusk — Suxiang）** |
+| :---: | :---: |
+|<img src="images/dawn-suxiang.png" alt="朝霞·素缃 预览" width="60%" /> | <img src="images/dusk-suxiang.png" alt="暮色·素缃 预览" width="60%" />
+
+---
 
 ### 晓烟 · 紫缃（Dawnmist — Zixiang）
 
-> 晓烟轻笼，紫气初生。
+> 晓烟轻笼，紫气初生。  
 > 粉笺如霞，墨痕带露。
 
 ### 烛影 · 紫缃（Candlelight — Zixiang）
 
-> 烛影摇曳，紫烟深沉。
+> 烛影摇曳，紫烟深沉。  
 > 夜色如绢，字迹如萤。
+
+| **晓烟 · 紫缃（Dawnmist — Zixiang）** | **烛影 · 紫缃（Candlelight — Zixiang）** |
+| :---: | :---: |
+|<img src="images/candlelight-zixiang.png" alt="晓烟·紫缃 预览" width="60%" /> | <img src="images/dawnmist-zixiang.png" alt="烛影·紫缃 预览" width="60%" />
+
+---
 
 ### 晨露 · 芙蕖（Morning Dew — Fuqu）
 
-> 晨露初凝，芙蕖含苞。
+> 晨露初凝，芙蕖含苞。  
 > 清新如晨，碧叶承珠。
 
 ### 月影 · 芙蕖（Moon Shadow — Fuqu）
 
-> 月影斜照，芙蕖静谧。
+> 月影斜照，芙蕖静谧。  
 > 夜色如水，暗香浮动。
+
+| **晨露 · 芙蕖（Morning Dew — Fuqu）** | **月影 · 芙蕖（Moon Shadow — Fuqu）** |
+| :---: | :---: |
+| <img src="images/morningdew-fuqu.png" alt="晨露·芙蕖 预览" width="60%" /> | <img src="images/moonshadow-fuqu.png" alt="月影·芙蕖 预览" width="60%" />
 
 ---
 
@@ -97,41 +109,40 @@
 
 | 色名 | 亮色值 | 暗色值 | 意象 | 在主题中的角色 |
 |------|--------|--------|------|---------------|
-| **海报灰** | `#483332` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#483332;border:1px solid #ddd;"></span> | `#d4c4b7` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#d4c4b7;border:1px solid #ddd;"></span> | 经年墨迹 | 默认前景 |
-| **鼠背灰** | `#73575c` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#73575c;border:1px solid #ddd;"></span> | `#9a8878` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#9a8878;border:1px solid #ddd;"></span> | 褪淡注释 | 注释与标点 |
-| **高粱红** | `#c02c38` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#c02c38;border:1px solid #ddd;"></span> | `#f05a46` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#f05a46;border:1px solid #ddd;"></span> | 朱砂印红 | 关键字与数字 |
-| **蟹蝥红** | `#b14b28` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#b14b28;border:1px solid #ddd;"></span> | `#f1908c` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#f1908c;border:1px solid #ddd;"></span> | 印章残朱 | 字符串 |
-| **薄荷绿** | `#207f4c` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#207f4c;border:1px solid #ddd;"></span> | `#83a78d` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#83a78d;border:1px solid #ddd;"></span> | 青碧玉色 | 函数名 |
-| **海王绿** | `#248067` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#248067;border:1px solid #ddd;"></span> | `#579572` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#579572;border:1px solid #ddd;"></span> | 翠色标题 | 类型与类名 |
+| **海报灰** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#483332;border:1px solid #ddd;"/></span> `#483332` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#d4c4b7;border:1px solid #ddd;"/></span> `#d4c4b7` | 经年墨迹 | 默认前景 |
+| **鼠背灰** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#73575c;border:1px solid #ddd;"/></span> `#73575c` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#9a8878;border:1px solid #ddd;"/></span> `#9a8878` | 褪淡注释 | 注释与标点 |
+| **高粱红** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#c02c38;border:1px solid #ddd;"/></span> `#c02c38` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#f05a46;border:1px solid #ddd;"/></span> `#f05a46` | 朱砂印红 | 关键字与数字 |
+| **蟹蝥红** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#b14b28;border:1px solid #ddd;"/></span> `#b14b28` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#f1908c;border:1px solid #ddd;"/></span> `#f1908c` | 印章残朱 | 字符串 |
+| **薄荷绿** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#207f4c;border:1px solid #ddd;"/></span> `#207f4c` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#83a78d;border:1px solid #ddd;"/></span> `#83a78d` | 青碧玉色 | 函数名 |
+| **海王绿** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#248067;border:1px solid #ddd;"/></span> `#248067` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#579572;border:1px solid #ddd;"/></span> `#579572` | 翠色标题 | 类型与类名 |
 
 ### 紫缃系列配色
 
 | 色名 | 亮色值 | 暗色值 | 意象 | 在主题中的角色 |
 |------|--------|--------|------|---------------|
-| **剑锋紫** | `#3e3841` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#3e3841;border:1px solid #ddd;"></span> | `#e9d7df` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#e9d7df;border:1px solid #ddd;"></span> | 暮色深沉 | 默认前景 |
-| **鱼尾灰** | `#5e616d` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#5e616d;border:1px solid #ddd;"></span> | `#9fa39a` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#9fa39a;border:1px solid #ddd;"></span> | 淡墨如烟 | 注释与标点 |
-| **桔梗紫** | `#813c85` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#813c85;border:1px solid #ddd;"></span> | `#c08eaf` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#c08eaf;border:1px solid #ddd;"></span> | 紫气东来 | 关键字 |
-| **洋葱紫** | `#a8456b` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#a8456b;border:1px solid #ddd;"></span> | `#ec9bad` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#ec9bad;border:1px solid #ddd;"></span> | 粉笺如霞 | 字符串 |
-| **蕈紫** | `#815c94` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#815c94;border:1px solid #ddd;"></span> | `#a7a8bd` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#a7a8bd;border:1px solid #ddd;"></span> | 蕈紫温润 | 函数与类型 |
-| **淡咖啡** | `#945833` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#945833;border:1px solid #ddd;"></span> | `#daa45a` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#daa45a;border:1px solid #ddd;"></span> | 古卷泛黄 | 属性与装饰器 |
+| **剑锋紫** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#3e3841;border:1px solid #ddd;"/></span> `#3e3841` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#e9d7df;border:1px solid #ddd;"/></span> `#e9d7df` | 暮色深沉 |默认前景 |
+| **鱼尾灰** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#5e616d;border:1px solid #ddd;"/></span> `#5e616d` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#9fa39a;border:1px solid #ddd;"/></span> `#9fa39a` | 淡墨如烟 |注释与标点 |
+| **桔梗紫** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#813c85;border:1px solid #ddd;"/></span> `#813c85` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#c08eaf;border:1px solid #ddd;"/></span> `#c08eaf` | 紫气东来 |关键字与数字 |
+| **洋葱紫** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#a8456b;border:1px solid #ddd;"/></span> `#a8456b` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#ec9bad;border:1px solid #ddd;"/></span> `#ec9bad` | 粉笺如霞 |字符串 |
+| **蕈紫** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#815c94;border:1px solid #ddd;"/></span> `#815c94` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#a7a8bd;border:1px solid #ddd;"/></span> `#a7a8bd` | 蕈紫温润 | 函数名 |
+| **淡咖啡** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#945833;border:1px solid #ddd;"/></span> `#945833` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#daa45a;border:1px solid #ddd;"/></span> `#daa45a` | 古卷泛黄 |类型与类名 |
 
 ### 芙蕖系列配色
 
 | 色名 | 亮色值 | 暗色值 | 意象 | 在主题中的角色 |
 |------|--------|--------|------|---------------|
-| **淡墨灰** | `#5a5552` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#5a5552;border:1px solid #ddd;"></span> | `#b8c8c8` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#b8c8c8;border:1px solid #ddd;"></span> | 月光如水 | 默认前景 |
-| **中灰** | `#8c8887` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#8c8887;border:1px solid #ddd;"></span> | `#6a7a8a` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#6a7a8a;border:1px solid #ddd;"></span> | 淡墨轻痕 | 注释与标点 |
-| **赤茶** | `#a84242` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#a84242;border:1px solid #ddd;"></span> | `#d47a7a` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#d47a7a;border:1px solid #ddd;"></span> | 芙蕖花瓣 | 关键字 |
-| **碧绿** | `#2a8b6f` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#2a8b6f;border:1px solid #ddd;"></span> | `#5cb87a` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#5cb87a;border:1px solid #ddd;"></span> | 荷叶承露 | 字符串 |
-| **群青** | `#2a6e8f` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#2a6e8f;border:1px solid #ddd;"></span> | `#5a9dbf` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#5a9dbf;border:1px solid #ddd;"></span> | 清水碧波 | 类型与类名 |
-| **藤紫** | `#7a5a8c` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#7a5a8c;border:1px solid #ddd;"></span> | `#9b7abf` <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#9b7abf;border:1px solid #ddd;"></span> | 紫藤缠绕 | 函数名 |
-
+| **淡墨灰** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#5a5552;border:1px solid #ddd;"/></span> `#5a5552` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#b8c8c8;border:1px solid #ddd;"/></span> `#b8c8c8` | 月光如水 | 默认前景 |
+| **中灰** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#8c8887;border:1px solid #ddd;"/></span> `#8c8887` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#6a7a8a;border:1px solid #ddd;"/></span> `#6a7a8a` | 淡墨轻痕 | 注释与标点 |
+| **赤茶** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#a84242;border:1px solid #ddd;"/></span> `#a84242` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#d47a7a;border:1px solid #ddd;"/></span> `#d47a7a` | 芙蕖花瓣 | 关键字与数字 |
+| **碧绿** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#2a8b6f;border:1px solid #ddd;"/></span> `#2a8b6f` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#5cb87a;border:1px solid #ddd;"/></span> `#5cb87a` | 荷叶承露 | 字符串 |
+| **群青** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#2a6e8f;border:1px solid #ddd;"/></span> `#2a6e8f` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#5a9dbf;border:1px solid #ddd;"/></span> `#5a9dbf` | 清水碧波 | 函数名 |
+| **藤紫** | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#7a5a8c;border:1px solid #ddd;"/></span> `#7a5a8c` | <span style="display:inline-block;width:16px;height:16px;border-radius:2px;background:#9b7abf;border:1px solid #ddd;"/></span> `#9b7abf` | 紫藤缠绕 | 类型与类名 |
 
 ---
 
 ## 📜 安装指南
 
-> 开卷有益，展素缃以养目。
+> 开卷有益，展素缃以养目。  
 > 安之若素，点朱砂而会心。
 
 ### 方法一：VSCode 内安装
@@ -150,7 +161,7 @@
 
 ## ⚙️ 雅致配置
 
-> 工欲善其事，必先利其器。
+> 工欲善其事，必先利其器。  
 > ——《论语 · 卫灵公》
 
 为得最佳古典体验，建议于 `settings.json` 中添此数行：
@@ -166,13 +177,13 @@
 }
 ```
 
-> **特别推荐**：[**霞鹜文楷 (LXGW WenKai)**](https://github.com/lxgw/LxgwWenKai) — 一款基于 Klee One 的开源中文字体，融合楷体与仿宋之美，温润优雅，与素缃主题意境相得益彰。
+> **特别推荐**：[**霞鹜文楷 (LXGW WenKai)**](https://github.com/lxgw/LxgwWenKai) 一款基于 Klee One 的开源中文字体，融合楷体与仿宋之美，温润优雅，与素缃主题意境相得益彰。
 
 ---
 
 ## 📚 语言适配
 
-> 素缃一卷，兼容万言。
+> 素缃一卷，兼容万言。  
 > 无论何种语言，皆可入诗入画。
 
 此主题基于标准 TextMate 语义着色，配合精细的 `semanticTokenColors` 配置，万语千言皆能诗意呈现。特别适配之语言包括：
@@ -186,7 +197,8 @@
 
 ## 🛠️ 本地研习
 
-> 独学而无友，则孤陋而寡闻。——《礼记 · 学记》
+> 独学而无友，则孤陋而寡闻。  
+> ——《礼记 · 学记》
 
 若欲深究此卷、细品墨色，可本地研习：
 
@@ -209,7 +221,8 @@ npx vsce package
 
 ## 🖋️ 共谱新章
 
-> 奇文共欣赏，疑义相与析。——陶渊明《移居二首》
+> 奇文共欣赏，疑义相与析。  
+> ——陶渊明《移居二首》
 
 此「素缃」主题，源于对「泛黄纸张与朱砂印章」的诗意想象。若觉某段语法高亮可更贴切，或欲增语言之精细支持，欢迎：
 
@@ -252,13 +265,14 @@ MIT License © Mosaulse
 
 ---
 
-> 素缃一卷，墨香千年。
-> 代码如诗，意境悠然。
+> 素缃一卷，墨香千年。  
+> 代码如诗，意境悠然。  
 > 愿君于代码天地间，常有一纸素缃相伴。
 
 ---
 
 **诗词典故引用**：
+
 - 《诗经》「素衣朱襮」——素之为美，质朴无华
 - 《楚辞》「缃绮为下裙」——缃之为色，温润如帛
 - 《说文解字》「缃，帛浅黄色也」——字源考据，色正其名
