@@ -2,6 +2,18 @@
 
 > 素缃一卷，墨香微扬。此页载诸小改与新章，记于年间。
 
+## [1.6.0] - 2026-06-24
+
+### 🎨 六卷归一 · 传统色正源
+
+- 六主题统一芙蕖式细粒度 scope：`tokenColors` 由 19 条扩展至 33 条，新增 `Comment — documentation`、`Keyword — import`、`Operator`、`String — template`、`String — escape`、`Number`、`Constant`、`Boolean & Null`、`Type`、`Function`、`Method`、`Variable`、`Parameter`、`Property`、`Support`、`Punctuation`、`Markup`、`CSS`、`Tag`、`JSON Key`、`Diff`、`Invalid` 等细粒度作用域
+- 全部前景色替换为中国传统色谱精确匹配值（依据 [zhongguose.com](https://zhongguose.com/)），色距控制在 15 以内
+- 新增 `semanticTokenColors` 完整配置：`boolean`、`enumMember`、`self`、`*.readonly`、`*.deprecated` 等语义修饰符
+- 所有主题统一 `"include": "./base.json"` 架构，确保公共配色与主题覆盖分层清晰
+- 清理脚本 `apply_include_and_clean.py` 更新为处理全部主题文件
+
+---
+
 ## [1.5.0] - 2026-06-12
 
 ### 🎨 语义补全 · 意境圆满

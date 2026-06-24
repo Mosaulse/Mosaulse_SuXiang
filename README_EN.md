@@ -8,11 +8,11 @@
 
 ---
 
-[Chinese](README.md)
+[中文](README.md)
 
 *The color of an antique hand-copied scroll, cast upon your code.*
 
-**Su Xiang** is a pair of VSCode color themes rooted in the aesthetics of ancient Eastern manuscripts.
+**Su Xiang** is a collection of VSCode color themes rooted in the aesthetics of ancient Eastern manuscripts, comprising **three series of six volumes**.
 
 "Su" (素) is raw, undyed silk — pure and serene; "Xiang" (缃) is the pale amber aged by time — the hue of an old scroll's flyleaf.
 
@@ -20,68 +20,107 @@ No harsh fluorescent whites, no bottomless blacks. Only the warmth of aged paper
 
 ---
 
+## Three Series, Six Volumes
+
+Built upon the [Chinese Traditional Color Spectrum](https://zhongguose.com/), this theme comprises three series — **Suxiang**, **Zixiang**, and **Fuqu** — each with a light and dark variant.
+
+### Suxiang Series — Antique Scroll
+
+Colors drawn from ancient book ink and paper. Raw silk as the ground, vermillion to punctuate, jade green to outline — like unrolling a Song-dynasty woodblock print.
+
+### Zixiang Series — Candlelit Purple
+
+Colors drawn from twilight candlelight and purple smoke. Deep violet shadows, pink paper like dawn — like reading by candlelight, code flowing through purple mist.
+
+### Fuqu Series — Lotus on Water
+
+Colors drawn from lotus blossoms and clear water. Moonlight casts shadows, fragrance floats — like a summer evening by the pond, code cool as water.
+
+---
+
 ## 🎨 Preview
 
 ### Dawn · Suxiang (朝霞·素缃)
 
-> Rise at dawn, unroll the scroll.  
-> Morning light on paper, the scent of ink fills the room.  
-> Keywords like vermillion seals, function names like blue-and-white porcelain.
+> Rise at dawn, unroll the scroll.
+> Morning light on paper, the scent of ink fills the room.
 
 <img src="images/screenshot-light.png" alt="Dawn Suxiang Preview" width="60%" />
 
 ### Dusk · Suxiang (暮色·素缃)
 
-> Dusk falls, candlelight flickers.  
-> Ancient pages yellowed, poetry flows.  
-> Code becomes verse, its mood lingering.
+> Dusk falls, candlelight flickers.
+> Ancient pages yellowed, poetry flows.
 
 <img src="images/screenshot-dark.png" alt="Dusk Suxiang Preview" width="60%" />
 
 ### Dawnmist · Zixiang (晓烟·紫缃)
 
-> Morning mist轻笼, purple气初生。  
+> Morning mist轻笼, purple气初生。
 > Pink paper like dawn, ink stains with dew.
-
-> *(Preview to be added)*
 
 ### Candlelight · Zixiang (烛影·紫缃)
 
-> Candlelight flickers, purple smoke deepens。  
+> Candlelight flickers, purple smoke deepens。
 > Night like silk, characters like fireflies。
-
-> *(Preview to be added)*
 
 ### Morning Dew · Fuqu (晨露·芙蕖)
 
-> Morning dew condenses, lotus buds。  
+> Morning dew condenses, lotus buds。
 > Fresh as morning, jade leaves hold pearls。
-
-> *(Preview to be added)*
 
 ### Moon Shadow · Fuqu (月影·芙蕖)
 
-> Moonlight casts shadows, lotus静谧。  
+> Moonlight casts shadows, lotus静谧。
 > Night like water, fragrance floats。
 
-> *(Preview to be added)*
+---
 
-## 🎨 Four-Symbol Color Palette
+## 🎨 Color System
 
-This theme follows the traditional Chinese philosophy of the "Four Symbols," building its color system around four classical motifs.
+> The great beauty of heaven and earth is beyond words.
+> — Adapted from *Zhuangzi*
 
-| Symbol | Light Values | Dark Values | Meaning | Role |
-|--------|-------------|-------------|---------|------|
-| **Raw Silk** (素绢) | `#F3EAD8` `#E6DCC4` | `#261F16` `#1F1912` | Unfurled silk, aged parchment | Editor & sidebar background |
-| **Ink** (墨迹) | `#423729` `#7A6D5E` | `#D0C3AE` `#938A7A` | Year-old ink, verse-like strokes | Foreground text & comments |
-| **Vermillion** (朱砂) | `#C54131` `#D96C4A` | `#D95B4A` `#E3947C` | Seal impression, deliberate & solemn | Keywords, numbers, status bar |
-| **Jade Green** (青碧) | `#1F987C` `#439D88` | `#7DA494` `#9DBFAD` | Jade motif, warm & serene | Title bar, functions, types |
+Every color in this theme traces back to the [Chinese Traditional Color Spectrum](https://zhongguose.com/). No color is invented — each has its provenance.
 
-**Design philosophy:** Raw silk as the ground, ink as the text, vermillion to punctuate, jade green to outline — the spirit of calligraphy, the aesthetics of code.
+### Suxiang Palette
+
+| Color Name | Light | Dark | Role |
+|------------|-------|------|------|
+| **Haibao Gray** (海报灰) | `#483332` | `#d4c4b7` | Default foreground |
+| **Mouse-back Gray** (鼠背灰) | `#73575c` | `#9a8878` | Comments & punctuation |
+| **Gaoliang Red** (高粱红) | `#c02c38` | `#f05a46` | Keywords & numbers |
+| **Crab Red** (蟹蝥红) | `#b14b28` | `#f1908c` | Strings |
+| **Mint Green** (薄荷绿) | `#207f4c` | `#83a78d` | Function names |
+| **Neptune Green** (海王绿) | `#248067` | `#579572` | Types & classes |
+
+### Zixiang Palette
+
+| Color Name | Light | Dark | Role |
+|------------|-------|------|------|
+| **Sword Purple** (剑锋紫) | `#3e3841` | `#e9d7df` | Default foreground |
+| **Fish-tail Gray** (鱼尾灰) | `#5e616d` | `#9fa39a` | Comments & punctuation |
+| **Bellflower Purple** (桔梗紫) | `#813c85` | `#c08eaf` | Keywords |
+| **Onion Purple** (洋葱紫) | `#a8456b` | `#ec9bad` | Strings |
+| **Mushroom Purple** (蕈紫) | `#815c94` | `#a7a8bd` | Functions & types |
+| **Light Coffee** (淡咖啡) | `#945833` | `#daa45a` | Properties & decorators |
+
+### Fuqu Palette
+
+| Color Name | Light | Dark | Role |
+|------------|-------|------|------|
+| **Pale Ink** (淡墨灰) | `#5a5552` | `#b8c8c8` | Default foreground |
+| **Medium Gray** (中灰) | `#8c8887` | `#6a7a8a` | Comments & punctuation |
+| **Red Tea** (赤茶) | `#a84242` | `#d47a7a` | Keywords |
+| **Emerald** (碧绿) | `#2a8b6f` | `#5cb87a` | Strings |
+| **Ultramarine** (群青) | `#2a6e8f` | `#5a9dbf` | Types & classes |
+| **Wisteria** (藤紫) | `#7a5a8c` | `#9b7abf` | Function names |
+
+---
 
 ## 📜 Installation
 
-> Unroll the Su Xiang scroll, slowly.  
+> Unroll the Su Xiang scroll, slowly.
 > Code becomes poetry; the mood comes of itself.
 
 **Method 1: Install within VSCode**
@@ -89,15 +128,17 @@ This theme follows the traditional Chinese philosophy of the "Four Symbols," bui
 2. Click the **Extensions** icon in the sidebar (`Ctrl+Shift+X`)
 3. Search for **Su Xiang**
 4. Click **Install**
-5. Press `Ctrl+K Ctrl+T` (Mac: `Cmd+K Cmd+T`), and choose **Dawn · Suxiang**, **Dusk · Suxiang**, **Dawnmist · Zixiang**, **Candlelight · Zixiang**, **Morning Dew · Fuqu**, or **Moon Shadow · Fuqu**
+5. Press `Ctrl+K Ctrl+T` (Mac: `Cmd+K Cmd+T`), and choose any of the six volumes
 
 **Method 2: Marketplace**
 
 Or find this theme directly on the [VSCode Marketplace](https://marketplace.visualstudio.com/).
 
+---
+
 ## ⚙️ Recommended Configuration
 
-> Sharpen your tools for the work ahead.  
+> Sharpen your tools for the work ahead.
 > With the right settings, the mood deepens.
 
 For the best classical experience, add these settings to your `settings.json`:
@@ -109,30 +150,31 @@ For the best classical experience, add these settings to your `settings.json`:
   "editor.lineHeight": 1.6,
   "editor.renderWhitespace": "selection",
   "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairs": true
 }
 ```
 
-> ✨ **Special Recommendation**: [**LXGW WenKai (霞鹜文楷)**](https://github.com/lxgw/LxgwWenKai) — an open-source Chinese font based on Klee One, blending the beauty of Kaishu and Fangsong typefaces. Warm, elegant, and perfectly complementing the Su Xiang theme. Download from the [GitHub releases page](https://github.com/lxgw/LxgwWenKai/releases).
+> **Special Recommendation**: [**LXGW WenKai (霞鹜文楷)**](https://github.com/lxgw/LxgwWenKai) — an open-source Chinese font based on Klee One, blending the beauty of Kaishu and Fangsong typefaces. Warm, elegant, and perfectly complementing the Su Xiang theme.
+
+---
 
 ## 📚 Language Support
 
-> A single scroll of Su Xiang speaks a thousand tongues.  
+> A single scroll of Su Xiang speaks a thousand tongues.
 > Any language becomes poetic.
 
-This theme relies on standard TextMate semantic tokenization. Especially well-adapted languages include:
+This theme relies on standard TextMate semantic tokenization, enhanced with fine-grained `semanticTokenColors` configuration. Especially well-adapted languages include:
 
 **Frontend Trio**: JavaScript · TypeScript · HTML/CSS
 **Backend Classics**: Python · Java · C# · Go · Rust
 **Data Languages**: SQL · JSON · Markdown
 **System Voices**: C/C++ · Shell
 
-> 🎨 No matter the programming language, within Su Xiang it becomes a painting — poetic and timeless.
+---
 
 ## 🛠️ Local Development
 
-> To study this scroll in depth, work on it locally.  
-> Code is poetry; the mood reveals itself.
+> To study this scroll in depth, work on it locally.
 
 ```bash
 # Clone the scroll
@@ -149,9 +191,11 @@ code .
 npx vsce package
 ```
 
+---
+
 ## 🖋️ Contributing
 
-> A single scroll of Su Xiang is not the work of one.  
+> A single scroll of Su Xiang is not the work of one.
 > Let us write new chapters together.
 
 Su Xiang was born from the poetic vision of "yellowed paper and vermillion seals." If a syntax highlight could be more fitting, or if you'd like to add finer language support, you're welcome to:
@@ -159,69 +203,34 @@ Su Xiang was born from the poetic vision of "yellowed paper and vermillion seals
 1. Open an [Issue](https://github.com/mosaulse/suxiang-theme/issues) sharing your thoughts
 2. Fork this scroll and submit a Pull Request, adding new scopes in `tokenColors`
 
-> 🎨 Colors are also words — we look forward to seeing you add new hues to Su Xiang.
+---
 
 ## 📓 Changelog
 
-> At the end of the scroll, we record its changes and new chapters. Here are the recent milestones.
+> At the end of the scroll, we record its changes and new chapters.
 
-### v1.4.0 - 2026-05-29
+### v1.6.0 — 2026-06-24
 
-**Verdant Green Unfurls · Four Symbols Reimagined**
+**Six Volumes Unified · Traditional Colors Verified**
 
-- The 'Blue and White' of the Four Symbols transforms to 'Verdant Green', shifting from indigo to emerald, as warm and serene as polished jade
-- Light theme's blue-and-white porcelain hues evolve from `#2E5F88` / `#43769C` to jade-like emerald greens `#1F987C` / `#439D88`
-- Dark theme's indigo tones transition from `#143252` / `#6FA6C9` to verdant teals `#7DA494` / `#9DBFAD`
-- Comprehensive refresh of green-themed colors for functions, types, title bars, and more, shifting the mood from cool and crisp to warm and nurturing
-- README's Four Symbols color palette updated in parallel, with the Verdant Green chapter completely rewritten
+- All six themes adopt Fuqu-style fine-grained scope: `tokenColors` expanded from 19 to 33 rules, adding `Comment — documentation`, `Keyword — import`, `Operator`, `String — template`, `String — escape`, `Number`, `Constant`, `Boolean & Null`, `Type`, `Function`, `Method`, `Variable`, `Parameter`, `Property`, `Support`, `Punctuation`, `Markup`, `CSS`, `Tag`, `JSON Key`, `Diff`, `Invalid` scopes
+- All foreground colors replaced with exact matches from the [Chinese Traditional Color Spectrum](https://zhongguose.com/), color distance ≤ 15
+- Added complete `semanticTokenColors` configuration: `boolean`, `enumMember`, `self`, `*.readonly`, `*.deprecated` modifiers
+- All themes unified with `"include": "./base.json"` architecture
+- Cleanup script `apply_include_and_clean.py` updated to handle all themes
 
-### v1.3.1 — 2026-05-22
+### v1.5.0 — 2026-06-12
 
-**Ink Tuning: semantic highlighting & activity bar**
+**Semantic Enhancement · Complete Atmosphere**
 
-- Adjusted semantic highlighting: class, interface, type, keyword → italic; comment → back to normal
-- Activity bar background unified with sidebar, seamless across light & dark
-- Added `git.blame.editorDecorationForeground` — blame annotations like tiny vermillion stamps
-
-### v1.3.0 — 2026-05-09
-
-**Theme Refinements & Structural Enhancements**
-
-- Added `themes/base.json`, extracting shared colors for reuse
-- Optimized and tweaked several colors and UI elements in both themes
-- Updated `.vscodeignore` and added local scripts for simpler packaging/testing
-
-### v1.2.0 — 2026-05-08
-
-**Refined Atmosphere**
-
-- Added full `semanticTokenColors` configuration for modern language semantic highlighting
-- Improved highlighting for namespace, class, interface, enum, etc.
-- Added standalone colors for function, method, macro — method calls are now more distinct
-- Enhanced color distinction among variable, parameter, property for clearer code layering
-- Improved syntax highlighting for regex, Markdown, CSS, etc.
-
-### v1.1.0 — 2026-05-07
-
-**Elevated Mood**
-
-- Revisited the Four-Symbol color philosophy — raw silk, ink, vermillion, and blue-and-white are now more harmoniously unified
-- Optimized the light theme's raw silk background — warm like first-snow rice paper
-- Adjusted the dark theme's ink levels for a deeper antique-scroll atmosphere
-- Improved syntax highlighting — strings, comments, variables are more clearly distinguished
-- Polished UI details — activity bar, sidebar, and more are visually refined
-
-### v1.0.1 — 2026-05-06
-
-**Mood Optimization**
-
-- Optimized editor selection background and highlight colors for better visuals
-- Adjusted title bar colors, added borders for clearer layering
-- Added debug status bar colors for clearer debug state indication
-- Added no-folder-open status bar colors for distinct interface states
-- Unified the light/dark theme color system for a more harmonious experience
+- Four themes renamed: Suxiang Light → Dawn, Suxiang Dark → Dusk, Zixiang Light → Dawnmist, Zixiang Dark → Candlelight
+- Added 7 semantic modifiers (`static`, `abstract`, `async`, etc.)
+- Completed Git decoration colors, Diff line backgrounds, Editor interaction colors
+- Completed terminal ANSI yellow, bracket highlight colors, overview ruler colors, testing status colors
 
 See full details in [CHANGELOG.md](./CHANGELOG.md)
+
+---
 
 ## 📜 License
 
@@ -229,8 +238,8 @@ MIT License © Mosaulse
 
 ---
 
-> A scroll of Su Xiang — the scent of ink for a thousand years.  
-> Code becomes poetry; the mood is tranquil.  
+> A scroll of Su Xiang — the scent of ink for a thousand years.
+> Code becomes poetry; the mood is tranquil.
 > May you always have a sheet of Su Xiang beside you in the world of code.
 
 ---
@@ -238,5 +247,5 @@ MIT License © Mosaulse
 **Poetic References**:
 - *Classic of Poetry* — "White silk, five twists"
 - *Songs of Chu* — "A xiang-colored silk skirt"
-- Traditional Four-Symbol philosophy
+- Traditional Chinese color philosophy
 - Classical Chinese aesthetic imagery
