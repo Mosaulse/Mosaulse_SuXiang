@@ -51,6 +51,12 @@
 
 ## 🎨 视觉预览
 
+| 朝霞 · 素缃（Dawn — Suxiang） | 暮色 · 素缃（Dusk — Suxiang） | 晓烟 · 紫缃（Dawnmist — Zixiang） | 烛影 · 紫缃（Candlelight — Zixiang） | 晨露 · 芙蕖（Morning Dew — Fuqu） | 月影 · 芙蕖（Moon Shadow — Fuqu）
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| `晨起推窗，素缃初展。朝霞映纸，墨香盈室。` | `暮色四合，烛影摇红。古卷泛黄处，诗意暗流淌。` | `晓烟轻笼，紫气初生。粉笺如霞，墨痕带露。` | `烛影摇曳，紫烟深沉。夜色如绢，字迹如萤。` | `晨露初凝，芙蕖含苞。清新如晨，碧叶承珠。` | `月影斜照，芙蕖静谧。夜色如水，暗香浮动。` |
+| ![](images/dawn-suxiang.png) | ![](images/dusk-suxiang.png)| ![](images/candlelight-zixiang.png) | ![](images/dawnmist-zixiang.png) | ![](images/morningdew-fuqu.png) | ![](images/moonshadow-fuqu.png) |
+
+<!-- 
 ### 朝霞 · 素缃（Dawn — Suxiang）
 
 > 晨起推窗，素缃初展。  
@@ -95,13 +101,14 @@
 
 | **晨露 · 芙蕖（Morning Dew — Fuqu）** | **月影 · 芙蕖（Moon Shadow — Fuqu）** |
 | :---: | :---: |
-| <img src="images/morningdew-fuqu.png" alt="晨露·芙蕖 预览" width="60%" /> | <img src="images/moonshadow-fuqu.png" alt="月影·芙蕖 预览" width="60%" />
+| <img src="images/morningdew-fuqu.png" alt="晨露·芙蕖 预览" width="60%" /> | <img src="images/moonshadow-fuqu.png" alt="月影·芙蕖 预览" width="60%" /> |
 
----
+--- -->
 
 ## 🎨 配色体系
 
-> 天地有大美而不言，四象有明法而不议。——化自《庄子 · 知北游》
+> 天地有大美而不言，四象有明法而不议。  
+> ——化自《庄子 · 知北游》
 
 此主题循中国传统色谱，以[中国色官网](https://zhongguose.com/)为据，每一色名皆有来历，每一色调皆循古法。
 

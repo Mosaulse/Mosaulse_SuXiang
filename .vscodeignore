@@ -5,12 +5,11 @@
 docs/
 
 # Workspace config
-.workbuddy/
 .trae/
 .reasonix/
 .codegraph/
 .kilo/
-docs/
+.mimocode/
 scripts/
 
 # Development files
