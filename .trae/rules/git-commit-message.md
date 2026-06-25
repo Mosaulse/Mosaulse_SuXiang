@@ -2,7 +2,9 @@
 alwaysApply: true
 scene: git_message
 ---
+
 每条 commit message 遵循：`类型 简短的古典化描述 （可选）详细说明`
+
 根据 git diff 内容自动选择诗意类型：
 
 | 变更类型 | 诗意类型 | 意象 | 诗意描述 |
